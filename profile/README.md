@@ -1,13 +1,12 @@
-<!--
-Place this file at: .github/profile/README.md
--->
+![baner_github](https://github.com/user-attachments/assets/a9bb514b-85b4-4e3b-8ccf-471174daa1b7)
+
 
 <div align="center">
 
-<h1 align="center">ILUXA WEB</h1>
 
+
+<h1><b>ILUXA WEB</b></h1><br>
 <p>
-<b>Built with you, not just for you.</b><br>
 We design & engineer <b>high-performance digital platforms</b> that scale, automate, and transform businesses worldwide.
 </p>
 
