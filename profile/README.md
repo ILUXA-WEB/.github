@@ -4,7 +4,7 @@ Place this file at: .github/profile/README.md
 
 <div align="center">
 
-<h1 align="center">ILUXA WEB — Building the Future of the Web</h1>
+<h1 align="center">ILUXA WEB</h1>
 
 <p>
 <b>Built with you, not just for you.</b><br>
@@ -38,8 +38,6 @@ Our team blends <b>design precision</b> with <b>engineering discipline</b> — c
 </p>
 
 > “We don’t just code websites — we engineer ecosystems.”
-
----
 
 <!-- ======= ⚙️ TECH STACK ======= -->
 <h2>⚙️ Our Tech Universe</h2>
@@ -83,8 +81,6 @@ Our team blends <b>design precision</b> with <b>engineering discipline</b> — c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42"/>
 </p>
 
----
-
 <!-- ======= 💎 VALUES ======= -->
 <h2>💎 What Drives Us</h2>
 <table>
@@ -107,8 +103,6 @@ Our team blends <b>design precision</b> with <b>engineering discipline</b> — c
   </tr>
 </table>
 
----
-
 <!-- ======= 💬 CONTACT ======= -->
 <h2>🤖 Let’s Build Something Powerful</h2>
 
@@ -120,8 +114,6 @@ Our team blends <b>design precision</b> with <b>engineering discipline</b> — c
   <img src="https://img.shields.io/badge/💌_info%40iluxa--web.com-Send-2563EB?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
-
----
 
 <sub>© ILUXA WEB • Poland • EU / UK / US — Crafted with passion 🧡</sub>
 
